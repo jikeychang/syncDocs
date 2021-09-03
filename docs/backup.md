@@ -44,7 +44,85 @@ StackOverflow 网站每年会进行一次开发者调查，了解全世界程序
 
 -- [《学习而不感到厌倦》](https://junglecoder.com/blog/learning-without-burnout)
 
+## 教程
+1、[文章] [Chrome DevTools 的一些使用技巧](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel)
+
 ## 收藏网址
 
 1、
 [Bar Chart Race](https://observablehq.com/@d3/bar-chart-race-explained)
+
+2、
+[彩色笔肖像](https://www.luiferreyra.com/portfolio-2/)
+
+3、
+
+[一个人可以有多少个朋友？](https://kottke.org/21/06/the-circles-of-friendship)
+
+4、[Hidden Bar](https://github.com/dwarvesf/hidden)
+
+Mac 电脑的软件，可以隐藏/展开系统状态栏的图标。
+
+
+
+
+## 精彩图片
+
+一位台湾网友下班回家，累得倒在沙发上，心想休息一会再去喂狗，结果眼睛一闭睡着了。等醒来，发现狗狗正居高临下，盯着他看，仿佛在说："你到底什么时候给我吃的？"
+
+![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042820.jpg)
+
+这表情像不像产品经理找到程序员，"需求还要多久才能做完？"
+
+
+
+## 免费图库
+
+下面都是图库网站，提供免费的商业级高清晰度图片下载。
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Gratisography](https://gratisography.com/)
+- [picjumbo](https://picjumbo.com/)
+- [Pixabay](https://pixabay.com/)
+- [Canva](https://www.canva.com/photos/free/)
+- [reshot](https://www.reshot.com/)
+- [rawpixel](https://www.rawpixel.com/)
+- [Morguefile](https://morguefile.com/)
+- [pxhere](https://pxhere.com/)
+- [ISO Republic](https://isorepublic.com/)
+- [Free Stock Photos](https://taken.photos/)
+- [泼辣有图](http://www.polayoutu.com)
+
+## 免费工具
+
+### 作图工具
+
+- [ProcessOn](https://www.processon.com/)
+- yEd：[桌面版](https://www.yworks.com/products/yed)，[在线版](https://www.yworks.com/products/yed-live)
+- [Pencil](https://pencil.evolus.vn/)
+- [Dia](http://dia-installer.de/)
+- [Inkscape](https://inkscape.org/)
+- Draw.io：[在线版](https://www.draw.io/)，[桌面版](https://about.draw.io/integrations/#integrations_offline)
+- [Whimsical](https://whimsical.co/)
+- [PlantUML](http://www.plantuml.com/plantuml/)
+- [Mermaid](https://mermaidjs.github.io/mermaid-live-editor/)
+- [迅捷画图](https://www.liuchengtu.com/)
+- [百度脑图](http://naotu.baidu.com/)
+- [Visual Paradigm Online](https://online.visual-paradigm.com)
+- [Creately](https://creately.com/)
+- [Coggle](https://coggle.it)
+
+### 视频编辑器
+
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+- [Shotcut](https://shotcut.org/)
+- [OpenShot](https://www.openshot.org/)
+- [Kdenlive](https://kdenlive.org/en/)
+
+### 在线代码编辑器
+
+- [monaco-editor](https://github.com/Microsoft/monaco-editor)
+- [code-server](https://github.com/codercom/code-server)
+- [StackBlitz](https://stackblitz.com/)
+- [Theia](https://www.theia-ide.org/)
